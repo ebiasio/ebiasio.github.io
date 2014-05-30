@@ -2,6 +2,7 @@ url: http://www.mampfen.de
 
 markdown: kramdown
 permalink: pretty
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME"]
 
 google_analytics_id: UA-51484650-1
 
