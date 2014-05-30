@@ -1,4 +1,15 @@
-url: http://www.mampfen.de
+title: Mampfen
+tagline: Elvira kocht
+author:
+  name: Elvria de Biasio
+  email: elvira.debiasio@gmail.com
+  phone: 
+  address:
+    street: Aignerstraße 7
+    postcode: 81541
+    city: München
+
+url: http://www.mampfen.com
 
 markdown: kramdown
 permalink: pretty
