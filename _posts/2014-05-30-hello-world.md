@@ -1,6 +1,6 @@
 ---
 layout: blog
-category: blog
+category: base
 published: true
 title: "Hello World!"
 ---
