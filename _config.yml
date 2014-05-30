@@ -3,6 +3,8 @@ url: http://www.mampfen.de
 markdown: kramdown
 permalink: pretty
 
+google_analytics_id: UA-51484650-1
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://www.mampfen.com'
